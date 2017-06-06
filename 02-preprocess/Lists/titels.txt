@@ -1,0 +1,29 @@
+[Mm]ijnheer
+[Mm]r
+[Mm]
+[Dd]e [Hh]eer
+[Dd]hr
+[Mm]evrouw
+[Mm]evr
+[Jj]ufrouw
+[Jj]ufr?
+[Mm]ejufrouw
+[Mm]ejufr?
+[Mm]onsieur
+[Mm]adame
+[Mm]me
+[Mm]ademoiselle
+[Mm]mlle
+[Dd]okter
+[Dd]octor
+[Dd]octeur
+[Dd]r
+[Pp]rofessor
+[Pp]rofesseur
+[Pp]rof
+[Pp]r
+[Ii]r
+[Ii]ng
+[Pp]rofessor [Dd]octor
+[Pp]rof [Dd]r
+[Pp]r [Dd]r
