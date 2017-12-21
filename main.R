@@ -1,7 +1,4 @@
-setwd("prepare")
-source("maketexts.R")
-
-setwd("../01-sentences")
+setwd("01-sentences")
 source("sentences.R")
 
 setwd("../02-preprocess")
